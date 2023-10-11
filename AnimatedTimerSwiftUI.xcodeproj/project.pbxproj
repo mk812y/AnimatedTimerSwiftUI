@@ -11,6 +11,7 @@
 		A58F85082AD72A390085A4FE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58F85072AD72A390085A4FE /* ContentView.swift */; };
 		A58F850A2AD72A3A0085A4FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A58F85092AD72A3A0085A4FE /* Assets.xcassets */; };
 		A58F850E2AD72A3A0085A4FE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A58F850D2AD72A3A0085A4FE /* Preview Assets.xcassets */; };
+		A58F85152AD72AFE0085A4FE /* CircleTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58F85142AD72AFE0085A4FE /* CircleTimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A58F85092AD72A3A0085A4FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A58F850B2AD72A3A0085A4FE /* AnimatedTimerSwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AnimatedTimerSwiftUI.entitlements; sourceTree = "<group>"; };
 		A58F850D2AD72A3A0085A4FE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A58F85142AD72AFE0085A4FE /* CircleTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleTimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				A58F85052AD72A390085A4FE /* AnimatedTimerSwiftUIApp.swift */,
 				A58F85072AD72A390085A4FE /* ContentView.swift */,
+				A58F85142AD72AFE0085A4FE /* CircleTimerView.swift */,
 				A58F85092AD72A3A0085A4FE /* Assets.xcassets */,
 				A58F850B2AD72A3A0085A4FE /* AnimatedTimerSwiftUI.entitlements */,
 				A58F850C2AD72A3A0085A4FE /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				A58F85082AD72A390085A4FE /* ContentView.swift in Sources */,
 				A58F85062AD72A390085A4FE /* AnimatedTimerSwiftUIApp.swift in Sources */,
+				A58F85152AD72AFE0085A4FE /* CircleTimerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
